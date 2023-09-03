@@ -1,0 +1,22 @@
+{
+  "name": "my-florist",
+  "version": "1.0.0",
+  "description": "Aplikasi untuk membantu penjual bunga",
+  "main": "index.js",
+  "scripts": {
+    "serve": "http-server ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MFathurrohmanMauludin/My-Florist.git"
+  },
+  "author": "M Fathurrohman Mauludin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MFathurrohmanMauludin/My-Florist/issues"
+  },
+  "homepage": "https://github.com/MFathurrohmanMauludin/My-Florist#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
