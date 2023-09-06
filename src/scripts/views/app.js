@@ -1,6 +1,6 @@
 import DrawerInitiator from '../utils/drawer-initiator';
 import routes from '../routes/routes';
-import UrlParser from '../routes/parser';
+import UrlParser from '../routes/url-parser';
 
 // class yang menginisiasikan (menetapkan/memasang) komponen-komponen dari Application Shell dan pertama kali dijalankan.
 class App {
